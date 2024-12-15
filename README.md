@@ -9,3 +9,4 @@ In this final project for DATA2060, we implemented a gradient-boosted decision t
     - numpy: 1.26.4
     - matplotlib: 3.8.4
     - scikit-learn: 1.4.2
+    - conda environments are stored in environment.yml file
